@@ -1,7 +1,6 @@
 {
   "name": "jspm-test-common",
   "version": "0.0.1",
-  "registry": "jspm",
   "dependencies": {
     "xlsjs": "^0.7.5"
   },
