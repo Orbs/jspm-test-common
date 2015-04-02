@@ -1,0 +1,20 @@
+{
+  "name": "jspm-test-common",
+  "version": "0.0.1",
+  "registry": "jspm",
+  "dependencies": {
+    "xlsjs": "^0.7.5"
+  },
+  "author": "Tauren Mills",
+  "jspm": {
+    "overrides": {
+      "github:SheetJS/js-xls@0.7.5": {
+        "format": "global",
+        "dependencies": {}
+      }
+    },
+    "dependencies": {
+      "xlsjs": "github:SheetJS/js-xls@^0.7.5"
+    }
+  }
+}
