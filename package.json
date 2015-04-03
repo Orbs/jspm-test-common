@@ -5,6 +5,7 @@
     "xlsjs": "^0.7.5"
   },
   "author": "Tauren Mills",
+  "registry": "github",
   "jspm": {
     "overrides": {
       "github:SheetJS/js-xls@0.7.5": {
